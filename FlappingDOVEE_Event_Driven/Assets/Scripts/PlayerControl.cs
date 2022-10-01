@@ -63,7 +63,7 @@ public class PlayerControl : MonoBehaviour
             audio.clip = deadSound;
             audio.Play();
             ani.SetTrigger("Dead");
-            PlayerDead.Invoke(); //gm의 changeState불러야함. - st=2;
+            PlayerDead.Invoke(); 
         }
         else if(other.CompareTag("Goal") && GameManager.gm.state != GameState.GameOver)
         {

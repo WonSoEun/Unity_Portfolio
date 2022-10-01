@@ -9,7 +9,7 @@ public class Hamburger : MonoBehaviour
 
     void Start()
     {
-        hamburger_speed = 8.0f;
+        hamburger_speed = 3.0f;
     }
 
     void Awake()

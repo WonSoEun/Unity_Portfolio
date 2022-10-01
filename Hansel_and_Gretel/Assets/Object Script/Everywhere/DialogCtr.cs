@@ -46,19 +46,6 @@ public class DialogCtr : MonoBehaviour
         StartCoroutine("TypingEffect");
     }
 
-   /* private void TextControl()
-    {
-        StopCoroutine("TypingEffect");
-        StopCoroutine("BlinkingArrow");
-        nextArrow.SetActive(false);
-        textBox.text = " ";
-
-        if (dialogBox.activeInHierarchy == true)
-        {
-            StartCoroutine("TypingEffect");
-        }
-    }*/
-
     IEnumerator BlinkingArrow()
     {
         nextArrow.SetActive(true);

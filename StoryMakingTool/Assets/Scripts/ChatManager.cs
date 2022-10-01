@@ -165,7 +165,7 @@ public class ChatManager : MonoBehaviour
                 oppenentCount = 0;
                 afterChoiceText = false;
             }
-            Chat(false, chatList_Array[j].storyText[chatCount], opponentName, chatList_Array[j].picture[oppenentCount]); //윈터고민 좀 해볼게요
+            Chat(false, chatList_Array[j].storyText[chatCount], opponentName, chatList_Array[j].picture[oppenentCount]); 
         }
         chatCount++; //함수가 호출될 때마다 1씩 증가 
         if(chatCount%2==0)

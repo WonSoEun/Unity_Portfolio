@@ -38,14 +38,14 @@ public class ObstacleControl : MonoBehaviour
 
     public GameObject Pop()
     {
-        return ObjPool.Dequeue();//빼는거
+        return ObjPool.Dequeue();
     }
 
     public void Push(GameObject obj)
     {
         obj.SetActive(false);
         obj.transform.position = this.transform.position;
-        ObjPool.Enqueue(obj); // 넣는거
+        ObjPool.Enqueue(obj); 
     }
 
    
