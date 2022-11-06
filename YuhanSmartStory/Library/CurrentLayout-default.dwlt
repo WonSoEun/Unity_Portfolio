@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
-    x: 298
-    y: 235
+    x: 849
+    y: 278
     width: 1742
     height: 882
   m_ShowMode: 4
@@ -151,7 +151,7 @@ MonoBehaviour:
   m_MinSize: {x: 911, y: 492}
   m_MaxSize: {x: 22006, y: 14042}
   vertical: 0
-  controlID: 66
+  controlID: 97
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -302,8 +302,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 803
-    y: 265
+    x: 1354
+    y: 308
     width: 340
     height: 811
   m_ViewDataDictionary: {fileID: 0}
@@ -391,8 +391,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 298
-    y: 265
+    x: 849
+    y: 308
     width: 504
     height: 811
   m_ViewDataDictionary: {fileID: 0}
@@ -409,7 +409,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 463.95963, y: 786.4048, z: -46.359707}
     speed: 2
-    m_Value: {x: 463.95963, y: 786.4048, z: -46.359707}
+    m_Value: {x: 408.25, y: 154.1, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -462,7 +462,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 460.38077
     speed: 2
-    m_Value: 460.38077
+    m_Value: 677.67316
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -619,15 +619,15 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1145
-    y: 265
+    x: 1696
+    y: 308
     width: 434
     height: 352
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 94130000
+      m_SelectedIDs: 1a130000
       m_LastClickedID: 0
       m_ExpandedIDs: 1efbffff
       m_RenameOverlay:
@@ -698,8 +698,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1145
-    y: 638
+    x: 1696
+    y: 681
     width: 434
     height: 438
   m_ViewDataDictionary: {fileID: 0}
@@ -716,7 +716,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Script/Character
+    - Assets/Script/EndingList
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 0
@@ -730,7 +730,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 70330000
     m_LastClickedID: 13168
-    m_ExpandedIDs: 0000000070420000724200007442000076420000784200007a4200007c4200007e420000
+    m_ExpandedIDs: 0000000070420000724200007442000076420000784200007a4200007c4200007e4200008042000082420000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -755,21 +755,21 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 0}
+    scrollPos: {x: 0, y: 172}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff0000000070420000724200007442000076420000784200007a4200007c420000be4200001c4700001e470000
+    m_ExpandedIDs: ffffffff0000000070420000724200007442000076420000784200007a4200007c4200007e4200008042000082420000b4420000b8420000ba420000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: DayManager
-      m_OriginalName: DayManager
+      m_Name: "\uC0AC\uACE0\uB825"
+      m_OriginalName: "\uC0AC\uACE0\uB825"
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 2054
+      m_UserData: 18194
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -834,8 +834,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1581
-    y: 265
+    x: 2132
+    y: 308
     width: 458
     height: 811
   m_ViewDataDictionary: {fileID: 0}
